@@ -1,0 +1,4 @@
+#Sun Mar 27 15:28:53 CDT 2022
+base.0=C\:\\Users\\16822\\Desktop\\SummerGoals\\Application\\Block04\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
